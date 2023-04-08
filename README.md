@@ -21,9 +21,9 @@ pnpm install
 
 1. Start Docker Desktop
 
-2. `npx supabase start`
+2. `npm start` to start supabase
 
-3. `npm run dev`
+3. `npm run dev` to start nuxt
 
 ## Production
 
